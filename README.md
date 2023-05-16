@@ -15,7 +15,7 @@ I’m always open to discussing new work or partnership opportunities.
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-0A1A2F?style=flat&logo=bootstrap)
   ![HTML](https://img.shields.io/badge/-HTML-0A1A2F?style=flat&logo=html5)
   ![CSS](https://img.shields.io/badge/-CSS-0A1A2F?style=flat&logo=css3)
-  ![Tailwind](https://img.shields.io/badge/-Tailwind-0A1A2F?style=flat&logo=tailwind)
+  ![Tailwind](https://img.shields.io/badge/-Tailwind-0A1A2F?style=flat&logo=tailwindCSS)
   
 🗄 &nbsp;Backend:&nbsp;
   ![Firebase](https://img.shields.io/badge/-Firebase-0A1A2F?style=flat&logo=firebase)
