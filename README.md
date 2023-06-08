@@ -9,6 +9,7 @@ I’m always open to discussing new work or partnership opportunities.
 
 🌐 &nbsp;Frontend:&nbsp;
   ![Javascript](https://img.shields.io/badge/-Javascript-0A1A2F?style=flat&logo=javascript)
+  ![Typescript](https://img.shields.io/badge/-Typescript-0A1A2F?style=flat&logo=typescript)
   ![React](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=react)
   ![Astro](https://img.shields.io/badge/-Astro-0A1A2F?style=flat&logo=astro)
   ![Sass](https://img.shields.io/badge/-Sass-0A1A2F?style=flat&logo=sass)
