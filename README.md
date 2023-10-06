@@ -1,9 +1,13 @@
 <h2> Hi, I'm Francisco.</h2>
 
-I'm a developer based in Buenos Aires, Argentina. Passionate about coding and creating beautiful user experiences.
-I’m always open to discussing new work or partnership opportunities.
+Buenos Aires based engineer & developer.
+Specialized in React stack and Astro framework.
 
-<a href="https://franguerrero.dev/" target="_blank">Portfolio Website</a> 
+[![Website](https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&url=https%3A%2F%2FPortfolio)](https://franguerrero.dev/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/juan-francisco-guerrero-16143849/?locale=en_US)](https://www.linkedin.com/in/juan-francisco-guerrero-16143849/?locale=en_US)
+
+👨‍🎓: BS in Information Technology @ Universidad de Buenos Aires, Argentina</br>
+💻: Front-end React developer @ Coderhouse</br>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
