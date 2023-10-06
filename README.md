@@ -24,6 +24,7 @@
   
   
 <h4> ⚙️ &nbsp;Other Tools</h4>
+
   ![Framer](https://img.shields.io/badge/-Framer-0A1A2F?style=flat&logo=framer)
   ![Firebase](https://img.shields.io/badge/-Firebase-0A1A2F?style=flat&logo=firebase)
   ![Radix](https://img.shields.io/badge/-Radix-0A1A2F?style=flat&logo=radixui)
