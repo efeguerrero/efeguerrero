@@ -1,6 +1,8 @@
 <h2> Hi, I'm Francisco.</h2>
+</br>
+</br>
 
-🌐: Based in Buenos Aires, Argentina.
+🌐: Based in Buenos Aires, Argentina.</br>
 👨‍🎓: Industrial Engineer @ Universidad de Buenos Aires, Argentina</br>
 💻: Developer specialized in React stack and Astro framework.
 
