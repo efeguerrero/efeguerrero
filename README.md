@@ -2,7 +2,7 @@
 </br>
 
 💻: Developer specialized in React stack and Astro framework.</br>
-👨‍🎓: Industrial Engineer @ Universidad de Buenos Aires, Argentina</br>
+👨‍🎓: Industrial Engineer @ Universidad de Buenos Aires</br>
 🌐: Buenos Aires, Argentina.
 
 <br/>
