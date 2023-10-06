@@ -1,9 +1,9 @@
 <h2> Hi, I'm Francisco.</h2>
 </br>
 
-💻 Developer specialized in React stack and Astro framework.
-👨‍🎓 Industrial Engineer @ Universidad de Buenos Aires, Argentina</br>
-🌐 Buenos Aires, Argentina.</br>
+💻: Developer specialized in React stack and Astro framework.</br>
+👨‍🎓: Industrial Engineer @ Universidad de Buenos Aires, Argentina</br>
+🌐: Buenos Aires, Argentina.
 
 <br/>
 
