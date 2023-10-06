@@ -13,26 +13,21 @@
 
 
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h4> 🛠 &nbsp;Main Stack</h4>
 
-🌐 &nbsp;Frontend:&nbsp;
-  ![Javascript](https://img.shields.io/badge/-Javascript-0A1A2F?style=flat&logo=javascript)
-  ![Typescript](https://img.shields.io/badge/-Typescript-0A1A2F?style=flat&logo=typescript)
   ![React](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=react)
   ![Astro](https://img.shields.io/badge/-Astro-0A1A2F?style=flat&logo=astro)
-  ![Sass](https://img.shields.io/badge/-Sass-0A1A2F?style=flat&logo=sass)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-0A1A2F?style=flat&logo=bootstrap)
-  ![HTML](https://img.shields.io/badge/-HTML-0A1A2F?style=flat&logo=html5)
-  ![CSS](https://img.shields.io/badge/-CSS-0A1A2F?style=flat&logo=css3)
+  ![Javascript](https://img.shields.io/badge/-Javascript-0A1A2F?style=flat&logo=javascript)
+  ![Typescript](https://img.shields.io/badge/-Typescript-0A1A2F?style=flat&logo=typescript)
+  ![NextJS](https://img.shields.io/badge/-NextJS-0A1A2F?style=flat&logo=next.JS)
   ![Tailwind](https://img.shields.io/badge/-Tailwind-0A1A2F?style=flat&logo=tailwindCSS)
   
-🗄 &nbsp;Backend:&nbsp;
-  ![Firebase](https://img.shields.io/badge/-Firebase-0A1A2F?style=flat&logo=firebase)
   
-⚙️ &nbsp;Other: &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github)
-  ![Wordpress](https://img.shields.io/badge/-Wordpress-0A1A2F?style=flat&logo=wordpress)
+<h4> ⚙️ &nbsp;Other Tools</h4>
+  ![Framer](https://img.shields.io/badge/-Framer-0A1A2F?style=flat&logo=framer)
+  ![Firebase](https://img.shields.io/badge/-Firebase-0A1A2F?style=flat&logo=firebase)
+  ![Radix](https://img.shields.io/badge/-Radix-0A1A2F?style=flat&logo=radixui)
+  ![Sass](https://img.shields.io/badge/-Sass-0A1A2F?style=flat&logo=sass)
 
 
 
