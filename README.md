@@ -29,6 +29,7 @@
   ![Firebase](https://img.shields.io/badge/-Firebase-0A1A2F?style=flat&logo=firebase)
   ![Radix](https://img.shields.io/badge/-Radix-0A1A2F?style=flat&logo=radixui)
   ![Sass](https://img.shields.io/badge/-Sass-0A1A2F?style=flat&logo=sass)
+  ![CSSModules](https://img.shields.io/badge/-CssModules-0A1A2F?style=flat&logo=cssmodules)
 
   <br/>
   <br/>
